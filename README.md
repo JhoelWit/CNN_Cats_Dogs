@@ -5,5 +5,7 @@ __Dependencies:__
 * Tensorflow
 * Keras
 * Numpy
+* SCiPy
+* pillow
 
 Have fun ✨
